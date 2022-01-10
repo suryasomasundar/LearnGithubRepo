@@ -5,3 +5,4 @@ Commands
 git branch -r // to see the list of branches
 git checkout -b <branchName> origin/<RemoteBranch> // Checkout a new branch
 git push origin HEAD:TestBranch // Push to remote branch
+Test-4 Stash and Abandon from local and Git
